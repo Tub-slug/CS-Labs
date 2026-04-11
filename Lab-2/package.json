@@ -1,0 +1,11 @@
+{
+  "name": "lab2-stateless-app",
+  "version": "1.0.0",
+  "description": "AWS Academy Lab 2 — Stateless Servers + ALB",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cookie-parser": "^1.4.6"
+  }
+}
